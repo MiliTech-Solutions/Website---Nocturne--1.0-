@@ -1,0 +1,6 @@
+{
+  "name": "NOCTURNE | Haute Cuisine & Wine Lounge",
+  "description": "A luxury boutique dining experience featuring a moody minimalist aesthetic, warm ambient gold lighting, interactive digital tasting menu, sommelier pairing concierge, and real-time reservation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

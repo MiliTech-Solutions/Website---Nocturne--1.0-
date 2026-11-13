@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Cormorant Garamond', Georgia, serif;
+    --font-cinzel: 'Cinzel', serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-serif-luxury {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-playfair {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.font-script {
+  font-family: 'Pinyon Script', cursive;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-sans-clean {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* Atmospheric Glow Effects */
+.gold-glow {
+  box-shadow: 0 0 40px -10px rgba(212, 175, 55, 0.25);
+}
+
+.gold-glow-subtle {
+  box-shadow: 0 0 25px -5px rgba(212, 175, 55, 0.15);
+}
+
+.gold-glow-intense {
+  box-shadow: 0 0 60px -5px rgba(229, 169, 60, 0.35);
+}
+
+.gold-border-glow {
+  border-color: rgba(212, 175, 55, 0.3);
+  box-shadow: inset 0 0 20px rgba(212, 175, 55, 0.05), 0 0 20px rgba(212, 175, 55, 0.1);
+}
+
+/* Ambient Candlelight subtle animation */
+@keyframes ambientPulse {
+  0%, 100% {
+    opacity: 0.75;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.95;
+    transform: scale(1.03);
+  }
+}
+
+.animate-ambient-pulse {
+  animation: ambientPulse 8s ease-in-out infinite;
+}
+
+/* Custom Scrollbar for sleek aesthetic */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0c0b0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2620;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d4af37;
+}
+
