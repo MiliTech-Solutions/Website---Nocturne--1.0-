@@ -25,7 +25,7 @@ export const SEATING_ZONES: SeatingZone[] = [
     minGuests: 2,
     maxGuests: 8,
     depositPerGuest: 500,
-    image: "/src/assets/images/obsidian_grand_salon_1792740423111.jpg",
+    image: "/assets/images/obsidian_grand_salon_1792740423111.jpg",
     features: ["Acoustic Privacy", "Full A La Carte & Tasting", "Dedicated Table Sommelier", "Soft Velvet Banquettes"]
   },
   {
@@ -38,7 +38,7 @@ export const SEATING_ZONES: SeatingZone[] = [
     minGuests: 2,
     maxGuests: 6,
     depositPerGuest: 600,
-    image: "/src/assets/images/greenhouse_pavilion_alt_1792741136876.jpg",
+    image: "/assets/images/greenhouse_pavilion_alt_1792741136876.jpg",
     features: ["Botanical Garden Vibe", "Copper Fire Pit Warmth", "Glass Roof Star Views", "Zero-Noise Sanctuary"]
   },
   {
@@ -141,7 +141,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Charcoal toast with nitrogen-flash cream pearls",
     flavorRadar: { umami: 10, richness: 9, smokiness: 6, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/caviar_brioche_1794293424373.jpg",
+    image: "/assets/images/caviar_brioche_1794293424373.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled on black stone ice bed"
   },
@@ -172,7 +172,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Sakura salt cure & cold smoke infusion",
     flavorRadar: { umami: 8, richness: 5, smokiness: 5, crispness: 9, aroma: 8 },
-    image: "/src/assets/images/kingfish_crudo_1794293482307.jpg",
+    image: "/assets/images/kingfish_crudo_1794293482307.jpg",
     isChefSignature: false,
     servingTemperature: "8°C"
   },
@@ -203,7 +203,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Brown butter high-sear with tableside truffle shaving",
     flavorRadar: { umami: 9, richness: 9, smokiness: 4, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/brittany_scallops_1794293482539.jpg",
+    image: "/assets/images/brittany_scallops_1794293482539.jpg",
     isChefSignature: true,
     servingTemperature: "Warm"
   },
@@ -298,7 +298,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Tableside cheese wheel emulsion & live truffle shaving",
     flavorRadar: { umami: 10, richness: 9, smokiness: 3, crispness: 4, aroma: 10 },
-    image: "/src/assets/images/tagliolini_black_truffle_1792569137234.jpg",
+    image: "/assets/images/tagliolini_black_truffle_1792569137234.jpg",
     isChefSignature: true,
     servingTemperature: "Hot"
   },
@@ -329,7 +329,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Rosemary branch smoke & rendered skin sear",
     flavorRadar: { umami: 9, richness: 8, smokiness: 8, crispness: 7, aroma: 9 },
-    image: "/src/assets/images/duck_breast_fig_1792568911075.jpg",
+    image: "/assets/images/duck_breast_fig_1792568911075.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -360,7 +360,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Kombu poach & charcoal crusting with warm foam",
     flavorRadar: { umami: 8, richness: 6, smokiness: 7, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/salsify_chanterelles_1794293498530.jpg",
+    image: "/assets/images/salsify_chanterelles_1794293498530.jpg",
     isChefSignature: false,
     servingTemperature: "Warm"
   },
@@ -393,7 +393,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Tableside cloche unsealing & hot ganache pour",
     flavorRadar: { umami: 6, richness: 10, smokiness: 8, crispness: 6, aroma: 10 },
-    image: "/src/assets/images/gold_chocolate_sphere_1794293498940.jpg",
+    image: "/assets/images/gold_chocolate_sphere_1794293498940.jpg",
     isChefSignature: true,
     servingTemperature: "Cold gelato with hot ganache cascade"
   },
@@ -423,7 +423,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Baked-to-order (18 mins) in copper cocotte",
     flavorRadar: { umami: 4, richness: 8, smokiness: 4, crispness: 5, aroma: 10 },
-    image: "/src/assets/images/honey_verbena_souffle_1794293499554.jpg",
+    image: "/assets/images/honey_verbena_souffle_1794293499554.jpg",
     isChefSignature: false,
     servingTemperature: "Piping Hot"
   },
@@ -485,7 +485,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Shaken over diamond ice & topped tableside",
     flavorRadar: { umami: 7, richness: 5, smokiness: 2, crispness: 10, aroma: 9 },
-    image: "/src/assets/images/french75_cocktail_1794293500821.jpg",
+    image: "/assets/images/french75_cocktail_1794293500821.jpg",
     isChefSignature: false,
     servingTemperature: "Chilled in gold-rimmed crystal flute"
   },
@@ -516,7 +516,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Low-temp water bath & tableside ember crusting",
     flavorRadar: { umami: 9, richness: 10, smokiness: 6, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/foie_gras_torchon_1792741637817.jpg",
+    image: "/assets/images/foie_gras_torchon_1792741637817.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled torchon with warm brioche"
   },
@@ -547,7 +547,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Gentle ceramic steam bath with tableside unmasking",
     flavorRadar: { umami: 10, richness: 8, smokiness: 3, crispness: 4, aroma: 10 },
-    image: "/src/assets/images/uni_chawanmushi_1792741639050.jpg",
+    image: "/assets/images/uni_chawanmushi_1792741639050.jpg",
     isChefSignature: true,
     servingTemperature: "Warm in stone vessel"
   },
@@ -578,7 +578,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Cast-iron sear with continuous cultured butter basting",
     flavorRadar: { umami: 9, richness: 9, smokiness: 5, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/toothfish_kombu_1792741639380.jpg",
+    image: "/assets/images/toothfish_kombu_1792741639380.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -609,7 +609,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Open-coal skewer sear with head-butter emulsion",
     flavorRadar: { umami: 10, richness: 9, smokiness: 8, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/carabineros_prawns_1792741639799.jpg",
+    image: "/assets/images/carabineros_prawns_1792741639799.jpg",
     isChefSignature: true,
     servingTemperature: "Piping hot on lava stone"
   },
@@ -640,7 +640,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Almond-wood high fire grill with ember rest",
     flavorRadar: { umami: 9, richness: 9, smokiness: 9, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/iberian_pluma_1792741640682.jpg",
+    image: "/assets/images/iberian_pluma_1792741640682.jpg",
     isChefSignature: false,
     servingTemperature: "Hot on cast iron"
   },
@@ -671,7 +671,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Rotisserie ember roast basted with rendered lard & wild herbs",
     flavorRadar: { umami: 9, richness: 9, smokiness: 8, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/lamb_saddle_1792741641533.jpg",
+    image: "/assets/images/lamb_saddle_1792741641533.jpg",
     isChefSignature: true,
     servingTemperature: "Hot"
   },
@@ -702,7 +702,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "White-hot charcoal blister & cold emulsion plating",
     flavorRadar: { umami: 7, richness: 6, smokiness: 7, crispness: 10, aroma: 8 },
-    image: "/src/assets/images/charred_broccolini_1792741642945.jpg",
+    image: "/assets/images/charred_broccolini_1792741642945.jpg",
     isChefSignature: false,
     servingTemperature: "Warm greens on chilled cream"
   },
@@ -733,7 +733,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Slow wood-oven roast with tableside saba drizzle",
     flavorRadar: { umami: 8, richness: 8, smokiness: 5, crispness: 7, aroma: 9 },
-    image: "/src/assets/images/delicata_squash_1792741641189.jpg",
+    image: "/assets/images/delicata_squash_1792741641189.jpg",
     isChefSignature: false,
     servingTemperature: "Warm"
   },
@@ -764,7 +764,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Dual-temperature layer piping with mirror glaze finish",
     flavorRadar: { umami: 6, richness: 8, smokiness: 4, crispness: 9, aroma: 9 },
-    image: "/src/assets/images/matcha_sesame_tart_1792741643866.jpg",
+    image: "/assets/images/matcha_sesame_tart_1792741643866.jpg",
     isChefSignature: false,
     servingTemperature: "Chilled"
   },
@@ -795,7 +795,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Baked under weights & assembled tableside to guarantee crispness",
     flavorRadar: { umami: 5, richness: 9, smokiness: 6, crispness: 10, aroma: 10 },
-    image: "/src/assets/images/vanilla_mille_feuille_1792741643429.jpg",
+    image: "/assets/images/vanilla_mille_feuille_1792741643429.jpg",
     isChefSignature: true,
     servingTemperature: "Room temperature pastry with cool cream"
   },
@@ -826,7 +826,7 @@ export const MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Rotovap cold vacuum distillation & atomized truffle mist",
     flavorRadar: { umami: 8, richness: 5, smokiness: 7, crispness: 9, aroma: 10 },
-    image: "/src/assets/images/shiso_botanical_elixir_1794293500184.jpg",
+    image: "/assets/images/shiso_botanical_elixir_1794293500184.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled over hand-cut diamond ice"
   },

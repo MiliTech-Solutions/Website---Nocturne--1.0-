@@ -31,7 +31,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Razor slicing at -2°C & tableside warm marrow brushing",
     flavorRadar: { umami: 10, richness: 9, smokiness: 6, crispness: 5, aroma: 9 },
-    image: "/src/assets/images/wagyu_carpaccio_1794293521144.jpg",
+    image: "/assets/images/wagyu_carpaccio_1794293521144.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled on black granite"
   },
@@ -62,7 +62,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Open-fire ember blister with tableside herb butter sizzle",
     flavorRadar: { umami: 10, richness: 10, smokiness: 8, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/veal_bone_marrow_1794293522029.jpg",
+    image: "/assets/images/veal_bone_marrow_1794293522029.jpg",
     isChefSignature: false,
     servingTemperature: "Sizzling Hot"
   },
@@ -93,7 +93,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Beeswax age & butter-basted copper pan roast",
     flavorRadar: { umami: 9, richness: 8, smokiness: 7, crispness: 8, aroma: 10 },
-    image: "/src/assets/images/royal_squab_1794293522849.jpg",
+    image: "/assets/images/royal_squab_1794293522849.jpg",
     isChefSignature: true,
     servingTemperature: "Warm"
   },
@@ -124,7 +124,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Slow clarified butter crusting with tableside Vin Jaune nap",
     flavorRadar: { umami: 10, richness: 9, smokiness: 4, crispness: 9, aroma: 10 },
-    image: "/src/assets/images/glazed_sweetbreads_1794293523439.jpg",
+    image: "/assets/images/glazed_sweetbreads_1794293523439.jpg",
     isChefSignature: true,
     servingTemperature: "Hot"
   },
@@ -155,7 +155,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "48-hour cold press & tableside brioche slicing",
     flavorRadar: { umami: 8, richness: 8, smokiness: 3, crispness: 6, aroma: 9 },
-    image: "/src/assets/images/guinea_fowl_terrine_1794293523832.jpg",
+    image: "/assets/images/guinea_fowl_terrine_1794293523832.jpg",
     isChefSignature: false,
     servingTemperature: "Cool"
   },
@@ -186,7 +186,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Tableside crystal carafe bouillon pour",
     flavorRadar: { umami: 10, richness: 7, smokiness: 7, crispness: 4, aroma: 10 },
-    image: "/src/assets/images/truffle_tortellini_1794293523853.jpg",
+    image: "/assets/images/truffle_tortellini_1794293523853.jpg",
     isChefSignature: false,
     servingTemperature: "Piping Hot"
   },
@@ -217,7 +217,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Layered hot-and-cold geometry plating",
     flavorRadar: { umami: 9, richness: 10, smokiness: 8, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/eel_foie_gras_1794293525631.jpg",
+    image: "/assets/images/eel_foie_gras_1794293525631.jpg",
     isChefSignature: true,
     servingTemperature: "Dual Temp: Warm foie gras & chilled eel"
   },
@@ -248,7 +248,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Hand-chopped to order & mother-of-pearl caviar spooning",
     flavorRadar: { umami: 10, richness: 9, smokiness: 5, crispness: 7, aroma: 9 },
-    image: "/src/assets/images/wagyu_tartare_1794293526006.jpg",
+    image: "/assets/images/wagyu_tartare_1794293526006.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled at 6°C"
   },
@@ -279,7 +279,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Rotisserie ember roasted & basted with lardo drippings",
     flavorRadar: { umami: 9, richness: 9, smokiness: 7, crispness: 8, aroma: 10 },
-    image: "/src/assets/images/roasted_quail_1794293526606.jpg",
+    image: "/assets/images/roasted_quail_1794293526606.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -310,7 +310,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Charcoal ash crusting & flash ember sear",
     flavorRadar: { umami: 9, richness: 8, smokiness: 9, crispness: 6, aroma: 10 },
-    image: "/src/assets/images/venison_loin_1794293526213.jpg",
+    image: "/assets/images/venison_loin_1794293526213.jpg",
     isChefSignature: true,
     servingTemperature: "Warm, cooked medium-rare"
   },
@@ -345,7 +345,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Shucked to order on hand-carved ice with nitrogen snow",
     flavorRadar: { umami: 8, richness: 4, smokiness: 1, crispness: 10, aroma: 8 },
-    image: "/src/assets/images/gillardeau_oysters_1794293543697.jpg",
+    image: "/assets/images/gillardeau_oysters_1794293543697.jpg",
     isChefSignature: true,
     servingTemperature: "Ice cold (2°C)"
   },
@@ -376,7 +376,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Flash-blistered over almond wood with tableside coral press",
     flavorRadar: { umami: 10, richness: 9, smokiness: 9, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/charred_carabineros_1794293544465.jpg",
+    image: "/assets/images/charred_carabineros_1794293544465.jpg",
     isChefSignature: true,
     servingTemperature: "Hot"
   },
@@ -407,7 +407,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Gentle 58°C milk poach with aromatic herb broth pour",
     flavorRadar: { umami: 8, richness: 7, smokiness: 2, crispness: 5, aroma: 9 },
-    image: "/src/assets/images/poached_turbot_1794293545716.jpg",
+    image: "/assets/images/poached_turbot_1794293545716.jpg",
     isChefSignature: false,
     servingTemperature: "Warm"
   },
@@ -469,7 +469,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Pan-basted in copper sauteuse with flambéed bisque finish",
     flavorRadar: { umami: 10, richness: 9, smokiness: 4, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/blue_lobster_tail_1794293546521.jpg",
+    image: "/assets/images/blue_lobster_tail_1794293546521.jpg",
     isChefSignature: true,
     servingTemperature: "Hot"
   },
@@ -500,7 +500,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Binchotan coal blister with tableside herb oil drizzle",
     flavorRadar: { umami: 9, richness: 7, smokiness: 9, crispness: 9, aroma: 9 },
-    image: "/src/assets/images/charred_octopus_1794293548235.jpg",
+    image: "/assets/images/charred_octopus_1794293548235.jpg",
     isChefSignature: false,
     servingTemperature: "Warm"
   },
@@ -531,7 +531,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Cherry wood blowtorch sear & nitrogen caviar plating",
     flavorRadar: { umami: 9, richness: 9, smokiness: 6, crispness: 8, aroma: 8 },
-    image: "/src/assets/images/torched_salmon_belly_1794293548903.jpg",
+    image: "/assets/images/torched_salmon_belly_1794293548903.jpg",
     isChefSignature: false,
     servingTemperature: "Warm sear with cold pearls"
   },
@@ -562,7 +562,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Kelp steam & tableside warm brown butter pour",
     flavorRadar: { umami: 10, richness: 8, smokiness: 5, crispness: 6, aroma: 9 },
-    image: "/src/assets/images/king_crab_dashi_1794293548900.jpg",
+    image: "/assets/images/king_crab_dashi_1794293548900.jpg",
     isChefSignature: true,
     servingTemperature: "Hot"
   },
@@ -593,7 +593,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "High-heat skin crackle & tableside saffron broth pour",
     flavorRadar: { umami: 9, richness: 8, smokiness: 4, crispness: 9, aroma: 10 },
-    image: "/src/assets/images/red_mullet_bouillabaisse_1794293548988.jpg",
+    image: "/assets/images/red_mullet_bouillabaisse_1794293548988.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -624,7 +624,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Chilled precision crudo slicing with cold citrus cure",
     flavorRadar: { umami: 8, richness: 4, smokiness: 1, crispness: 9, aroma: 9 },
-    image: "/src/assets/images/scallop_crudo_1794293549565.jpg",
+    image: "/assets/images/scallop_crudo_1794293549565.jpg",
     isChefSignature: false,
     servingTemperature: "Chilled at 5°C"
   },
@@ -659,7 +659,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Two-zone wood hearth sear & tableside bone carving",
     flavorRadar: { umami: 10, richness: 10, smokiness: 10, crispness: 9, aroma: 10 },
-    image: "/src/assets/images/prime_tomahawk_1794293567758.jpg",
+    image: "/assets/images/prime_tomahawk_1794293567758.jpg",
     isChefSignature: true,
     servingTemperature: "Hot & Rested to 54°C Medium-Rare"
   },
@@ -721,7 +721,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Rotisserie charcoal turn & direct ember flash-crust",
     flavorRadar: { umami: 9, richness: 9, smokiness: 9, crispness: 9, aroma: 8 },
-    image: "/src/assets/images/wagyu_picanha_1794293568734.jpg",
+    image: "/assets/images/wagyu_picanha_1794293568734.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -752,7 +752,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Flash charcoal blistering & wood-smoke peach caramelization",
     flavorRadar: { umami: 9, richness: 9, smokiness: 8, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/iberico_secreto_1794293569477.jpg",
+    image: "/assets/images/iberico_secreto_1794293569477.jpg",
     isChefSignature: true,
     servingTemperature: "Hot"
   },
@@ -845,7 +845,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Rotisserie hearth roasting & aromatic ash dusting",
     flavorRadar: { umami: 9, richness: 8, smokiness: 9, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/charcoal_guinea_hen_1794293570414.jpg",
+    image: "/assets/images/charcoal_guinea_hen_1794293570414.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -907,7 +907,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Vineyard grapevine smoke & high-sugar caramelization",
     flavorRadar: { umami: 9, richness: 8, smokiness: 9, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/glazed_lamb_ribs_1794293570841.jpg",
+    image: "/assets/images/glazed_lamb_ribs_1794293570841.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -938,7 +938,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "10-hour fat confit & high-heat woodfire crusting",
     flavorRadar: { umami: 9, richness: 9, smokiness: 8, crispness: 10, aroma: 9 },
-    image: "/src/assets/images/duck_leg_confit_1794293570757.jpg",
+    image: "/assets/images/duck_leg_confit_1794293570757.jpg",
     isChefSignature: false,
     servingTemperature: "Hot & Crackling"
   },
@@ -973,7 +973,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Salt-crust bake & cold hickory smoke infusion",
     flavorRadar: { umami: 7, richness: 5, smokiness: 7, crispness: 8, aroma: 8 },
-    image: "/src/assets/images/beet_tartare_1794293588115.jpg",
+    image: "/assets/images/beet_tartare_1794293588115.jpg",
     isChefSignature: false,
     servingTemperature: "Chilled"
   },
@@ -1004,7 +1004,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Mandoline shaved into ice bath & cold citrus toss",
     flavorRadar: { umami: 5, richness: 4, smokiness: 2, crispness: 10, aroma: 9 },
-    image: "/src/assets/images/fennel_blood_orange_1794293588988.jpg",
+    image: "/assets/images/fennel_blood_orange_1794293588988.jpg",
     isChefSignature: false,
     servingTemperature: "Ice-Cold"
   },
@@ -1066,7 +1066,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Direct charcoal grill & warm emulsion pooling",
     flavorRadar: { umami: 9, richness: 7, smokiness: 8, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/charred_romanesco_1794293589294.jpg",
+    image: "/assets/images/charred_romanesco_1794293589294.jpg",
     isChefSignature: false,
     servingTemperature: "Warm"
   },
@@ -1097,7 +1097,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Copper pan sauté & tableside egg piercing",
     flavorRadar: { umami: 10, richness: 8, smokiness: 5, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/morel_chanterelle_fricassee_1794293590407.jpg",
+    image: "/assets/images/morel_chanterelle_fricassee_1794293590407.jpg",
     isChefSignature: true,
     servingTemperature: "Warm"
   },
@@ -1128,7 +1128,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Alpine hay smoke chamber & tableside clarified broth pour",
     flavorRadar: { umami: 8, richness: 9, smokiness: 6, crispness: 6, aroma: 10 },
-    image: "/src/assets/images/smoked_burrata_1794293590632.jpg",
+    image: "/assets/images/smoked_burrata_1794293590632.jpg",
     isChefSignature: false,
     servingTemperature: "Cool"
   },
@@ -1159,7 +1159,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Slow cartouche braise & flash-fried crisp chips",
     flavorRadar: { umami: 7, richness: 6, smokiness: 3, crispness: 8, aroma: 9 },
-    image: "/src/assets/images/artichokes_barigoule_1794293590309.jpg",
+    image: "/assets/images/artichokes_barigoule_1794293590309.jpg",
     isChefSignature: false,
     servingTemperature: "Warm"
   },
@@ -1190,7 +1190,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Precision cross-hatch scoring & coal fire glazing",
     flavorRadar: { umami: 10, richness: 7, smokiness: 8, crispness: 7, aroma: 8 },
-    image: "/src/assets/images/king_oyster_tare_1794293591537.jpg",
+    image: "/assets/images/king_oyster_tare_1794293591537.jpg",
     isChefSignature: false,
     servingTemperature: "Hot"
   },
@@ -1221,7 +1221,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Copper tureen service with tableside hazelnut oil swirl",
     flavorRadar: { umami: 9, richness: 8, smokiness: 4, crispness: 8, aroma: 10 },
-    image: "/src/assets/images/sunchoke_veloute_1794293592885.jpg",
+    image: "/assets/images/sunchoke_veloute_1794293592885.jpg",
     isChefSignature: true,
     servingTemperature: "Warm"
   },
@@ -1252,7 +1252,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Charred root tips & tableside cheese mousse dollop",
     flavorRadar: { umami: 8, richness: 8, smokiness: 4, crispness: 10, aroma: 9 },
-    image: "/src/assets/images/chicory_treviso_salad_1794293592690.jpg",
+    image: "/assets/images/chicory_treviso_salad_1794293592690.jpg",
     isChefSignature: false,
     servingTemperature: "Cool"
   },
@@ -1287,7 +1287,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Baked to order in copper ramekin with hot liquid heart",
     flavorRadar: { umami: 6, richness: 10, smokiness: 6, crispness: 6, aroma: 10 },
-    image: "/src/assets/images/molten_guanaja_fondant_1794293633131.jpg",
+    image: "/assets/images/molten_guanaja_fondant_1794293633131.jpg",
     isChefSignature: true,
     servingTemperature: "Hot cake with chilled ice cream"
   },
@@ -1318,7 +1318,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Low-temperature wine infusion & siphon mascarpone foam",
     flavorRadar: { umami: 4, richness: 7, smokiness: 3, crispness: 5, aroma: 10 },
-    image: "/src/assets/images/poached_bosc_pear_1794293633554.jpg",
+    image: "/assets/images/poached_bosc_pear_1794293633554.jpg",
     isChefSignature: false,
     servingTemperature: "Warm pear with cool mascarpone"
   },
@@ -1349,7 +1349,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Fresh tart shell baking & tableside flame blowtorch scorch",
     flavorRadar: { umami: 3, richness: 7, smokiness: 4, crispness: 9, aroma: 10 },
-    image: "/src/assets/images/yuzu_bergamot_tart_1794293634670.jpg",
+    image: "/assets/images/yuzu_bergamot_tart_1794293634670.jpg",
     isChefSignature: false,
     servingTemperature: "Cool with warm meringue surface"
   },
@@ -1380,7 +1380,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Copper mold beeswax bake & tableside sabayon whisking",
     flavorRadar: { umami: 4, richness: 8, smokiness: 5, crispness: 10, aroma: 9 },
-    image: "/src/assets/images/caneles_de_bordeaux_1794293635186.jpg",
+    image: "/assets/images/caneles_de_bordeaux_1794293635186.jpg",
     isChefSignature: false,
     servingTemperature: "Warm"
   },
@@ -1411,7 +1411,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Chocolate tempering & nitrogen-sprayed velvet flocking",
     flavorRadar: { umami: 5, richness: 9, smokiness: 3, crispness: 7, aroma: 10 },
-    image: "/src/assets/images/black_forest_cylinder_1794293635223.jpg",
+    image: "/assets/images/black_forest_cylinder_1794293635223.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled"
   },
@@ -1442,7 +1442,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Slow gelatin setting & warm fig syrup drizzle",
     flavorRadar: { umami: 5, richness: 8, smokiness: 3, crispness: 6, aroma: 10 },
-    image: "/src/assets/images/fig_panna_cotta_1794293649783.jpg",
+    image: "/assets/images/fig_panna_cotta_1794293649783.jpg",
     isChefSignature: false,
     servingTemperature: "Chilled with warm compote"
   },
@@ -1473,7 +1473,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Pâte à bombe blast freeze & mirror peach glaze",
     flavorRadar: { umami: 6, richness: 8, smokiness: 2, crispness: 6, aroma: 9 },
-    image: "/src/assets/images/matcha_souffle_glace_1794293649591.jpg",
+    image: "/assets/images/matcha_souffle_glace_1794293649591.jpg",
     isChefSignature: false,
     servingTemperature: "Frozen (-12°C)"
   },
@@ -1504,7 +1504,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Tableside chestnut vermicelli pressing & truffle gelato quenelle",
     flavorRadar: { umami: 7, richness: 9, smokiness: 5, crispness: 8, aroma: 10 },
-    image: "/src/assets/images/chestnut_mont_blanc_1794293650900.jpg",
+    image: "/assets/images/chestnut_mont_blanc_1794293650900.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled with cold gelato"
   },
@@ -1535,7 +1535,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Assembled architectural shards & frozen nitrogen lime snow",
     flavorRadar: { umami: 2, richness: 6, smokiness: 1, crispness: 10, aroma: 10 },
-    image: "/src/assets/images/passionfruit_vacherin_1794293651068.jpg",
+    image: "/assets/images/passionfruit_vacherin_1794293651068.jpg",
     isChefSignature: false,
     servingTemperature: "Ice-Cold"
   },
@@ -1566,7 +1566,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Cast-iron copper pan caramelization & tableside Calvados flambé",
     flavorRadar: { umami: 4, richness: 9, smokiness: 6, crispness: 8, aroma: 10 },
-    image: "/src/assets/images/apple_tarte_tatin_1794293651351.jpg",
+    image: "/assets/images/apple_tarte_tatin_1794293651351.jpg",
     isChefSignature: true,
     servingTemperature: "Warm tarte with cool Calvados cream"
   },
@@ -1601,7 +1601,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Stirred over diamond ice & cloche smoke release",
     flavorRadar: { umami: 7, richness: 8, smokiness: 10, crispness: 6, aroma: 10 },
-    image: "/src/assets/images/aged_plum_manhattan_1794293666403.jpg",
+    image: "/assets/images/aged_plum_manhattan_1794293666403.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled with aromatic cedar smoke"
   },
@@ -1632,7 +1632,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Milk clarification & hand-cut crystal pillar ice",
     flavorRadar: { umami: 7, richness: 5, smokiness: 2, crispness: 10, aroma: 9 },
-    image: "/src/assets/images/matcha_coconut_highball_1794293667520.jpg",
+    image: "/assets/images/matcha_coconut_highball_1794293667520.jpg",
     isChefSignature: false,
     servingTemperature: "Ice Cold"
   },
@@ -1663,7 +1663,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Shaken over ice & topped tableside with bubbly Champagne",
     flavorRadar: { umami: 3, richness: 4, smokiness: 1, crispness: 10, aroma: 10 },
-    image: "/src/assets/images/blood_orange_aperitif_1794293667652.jpg",
+    image: "/assets/images/blood_orange_aperitif_1794293667652.jpg",
     isChefSignature: false,
     servingTemperature: "Chilled in tall crystal flute"
   },
@@ -1694,7 +1694,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Hand-shaken with tableside rosemary torching",
     flavorRadar: { umami: 6, richness: 6, smokiness: 10, crispness: 9, aroma: 10 },
-    image: "/src/assets/images/rosemary_mezcalita_1794293667699.jpg",
+    image: "/assets/images/rosemary_mezcalita_1794293667699.jpg",
     isChefSignature: true,
     servingTemperature: "On the rocks with smoke rim"
   },
@@ -1725,7 +1725,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Hard shake with nitro foam & cold vanilla mist",
     flavorRadar: { umami: 7, richness: 8, smokiness: 7, crispness: 6, aroma: 10 },
-    image: "/src/assets/images/espresso_hojicha_martini_1794293681633.jpg",
+    image: "/assets/images/espresso_hojicha_martini_1794293681633.jpg",
     isChefSignature: false,
     servingTemperature: "Frost-cold in chilled coupe"
   },
@@ -1756,7 +1756,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Crystal mixing glass stir & tableside atomized pine spray",
     flavorRadar: { umami: 5, richness: 6, smokiness: 3, crispness: 9, aroma: 10 },
-    image: "/src/assets/images/alpine_genepi_cocktail_1794293682300.jpg",
+    image: "/assets/images/alpine_genepi_cocktail_1794293682300.jpg",
     isChefSignature: true,
     servingTemperature: "Chilled over hand-carved ice sphere"
   },
@@ -1849,7 +1849,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Gentle folding in chilled crystal flute with gold flake suspension",
     flavorRadar: { umami: 6, richness: 4, smokiness: 1, crispness: 10, aroma: 9 },
-    image: "/src/assets/images/yuzu_daiginjo_bellini_1794293682364.jpg",
+    image: "/assets/images/yuzu_daiginjo_bellini_1794293682364.jpg",
     isChefSignature: false,
     servingTemperature: "Ice-Cold"
   },
@@ -1880,7 +1880,7 @@ export const EXPANDED_MENU_ITEMS: MenuItem[] = [
     },
     prepMethod: "Clay pot simmer & tableside ceramic bowl pour",
     flavorRadar: { umami: 8, richness: 7, smokiness: 8, crispness: 4, aroma: 10 },
-    image: "/src/assets/images/smoked_puerh_toddy_1794293682903.jpg",
+    image: "/assets/images/smoked_puerh_toddy_1794293682903.jpg",
     isChefSignature: false,
     servingTemperature: "Warm in ceramic bowl"
   }
